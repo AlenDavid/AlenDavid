@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![profile_fun_picture](IMG-20190911-WA0079.jpg "Double David")
+
 ## Who am I?
 
 Name's Alen, David Alen. I'm a FullStack Software Developer working at SAP.
