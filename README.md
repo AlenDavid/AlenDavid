@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Name's Alen, David Alen. I'm a FullStack Software Developer working at SAP.
+Name's Alen, David Alen. I'm a FullStack Software Enginner working at Fabric.
 I'm 23 years old. I have coffee addiction. If you dare me to solve a computer problem, I'll spend all my time working in a solution!
 
 ## What do I do?
