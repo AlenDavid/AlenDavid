@@ -15,3 +15,6 @@ I'm 23 years old. I have coffee addiction. If you dare me to solve a computer pr
 - 📫  How to reach me: twitter.com/davidalen_
 - 😄  Pronouns: he/him/beatiful.
 - ⚡  Fun fact: I'm the best chess player between my friends!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alendavid&langs_count=5&theme=onedark)
+![Rychillie](https://github-readme-stats.vercel.app/api?username=alendavid&show_icons=true&theme=onedark)
