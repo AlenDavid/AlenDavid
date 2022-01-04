@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Name's Alen, David Alen. I'm a Senior Software Enginner working at Fabric.
+Name's Alen, David Alen. I'm a Senior Software Enginner.
 
 I'm 23 years old. I have coffee addiction. If you dare me to solve a computer problem, I'll spend all my time working in a solution!
 
