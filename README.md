@@ -2,9 +2,7 @@
 
 ## Who am I?
 
-Name's Alen, David Alen. I'm a Senior Software Enginner.
-
-I'm 23 years old. I have coffee addiction. If you dare me to solve a computer problem, I'll spend all my time working in a solution!
+Name's Alen, David Alen. I'm a Senior Software Enginner. I'm 24 years old. I have coffee addiction. If you dare me to solve a computer problem, I'll spend all my time working in a solution!
 
 This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
@@ -18,7 +16,7 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
 ## What do I do?
 
-- 🔭  Side-Project: [Flukso 📱](https://flukso.app/)
+- 🔭  Side-Project: Empty! You are welcome to invite me to something, if you want to!
 - 🌱  I’m currently learning Machine Learning concepts and design skills.
 - 👯  I’m looking to collaborate on Open Source projects!
 - 🤔  I’m looking for help with Machine Learning applications in python, js, java and Go
