@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-Name's Alen, David Alen. I'm a Senior Software Enginner. I'm 24 years old. I have coffee addiction. If you dare me to solve a computer problem, I'll spend all my time working in a solution!
+Name's Alen, David Alen. I'm a Senior Software Enginner. I'm 24 years old. I'm addicted to coffee. If you dare me to solve a computer problem, I'll spend all my time working in a solution!
 
 This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
