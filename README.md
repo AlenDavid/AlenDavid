@@ -30,7 +30,7 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
 <div style="display: flex; align-items: center; justify-content: center;">
 
-![David Alen](https://github-readme-stats.vercel.app/api?username=alendavid&show_icons=true&theme=onedark)
+![David Alen](https://github-readme-stats.vercel.app/api?username=alendavid&show_icons=true&theme=onedark&cache_seconds=1800&include_all_commits=true&count_private=true)
 
 </div>
 
