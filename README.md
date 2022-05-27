@@ -13,7 +13,7 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 ## Maintainer
 
 - Notify cli: https://github.com/alenDavid/notify-cli
-- ts-class-factory: https://github.com/AlenDavid/proposal-factory-decorator
+- slonik-interceptor-json-rows: https://github.com/alendavid/slonik-interceptor-json-rows
 
 ## What do I do?
 
