@@ -4,6 +4,12 @@
 
 Name's Alen, David Alen. I'm a Senior Software Enginner, 24 years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
 
+As a Senior TypeScript Engineer, I collaborate with my team to build fast, reliable and secure software. My career started in 2018, and since then, I've been using Node.JS, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
+
+I'm an advocate of Automated Testing, Microservices and Scrum.
+
+Aside my technical skills, I create a work environment where people are free to talk, collaborate and learn. I do free mentoring online (You can find me at http://calendly.com/davidalen). I'm passionate about talks and I'm a speaker inside the companies I work with.
+
 This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
 ## Want to learn something new?
