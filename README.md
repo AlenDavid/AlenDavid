@@ -1,10 +1,10 @@
 ![cat](./cat.gif)
 
-## Who is Alen?
+## Biography
 
 Name's Alen, David Alen. I'm a Senior Software Enginner, 24 years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
 
-As a Senior TypeScript Engineer, I collaborate with my team to build fast, reliable and secure software. My career started in 2018, and since then, I've been using Node.JS, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
+As a Senior Software Engineer, I collaborate with my team to build fast, reliable and secure software. My career started in 2018, and since then, I've been using Golang, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
 
 I'm an advocate of Automated Testing, Microservices and Scrum.
 
@@ -24,9 +24,8 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 ## What do I do?
 
 - 🔭  Current Side-Project(s): [notify](https://github.com/alenDavid/notify-cli)
-- 🌱  I’m currently learning Machine Learning concepts and design skills.
+- 🌱  I’m currently reading books about Software Architecture and Machine Learning.
 - 👯  I’m looking to collaborate on Open Source projects!
-- 🤔  I’m looking for help with Machine Learning applications in python, js, java and Go
 - 💬  Ask me about anything! I'll love to help you!
 - 📫  How to reach me: twitter.com/davidalen_
 - 😄  Pronouns: he/him/they/them
