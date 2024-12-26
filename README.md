@@ -4,7 +4,7 @@
 
 Name's Alen, David Alen. I'm a Senior Software Enginner, 26 years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
 
-As a Senior Software Engineer, I collaborate with my team to build fast, reliable and secure software. My career started in 2018, and since then, I've been using Golang, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
+As a Senior Software Engineer, I collaborate with my team to build fast, reliable and secure software. My career started back in 2018, and since then, I've been using Golang, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
 
 I'm an advocate of Automated Testing, Microservices and Scrum.
 
@@ -16,14 +16,9 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
 - GraphQL: https://github.com/AlenDavid/graphql-examples
 
-## Maintainer
-
-- Notify cli: https://github.com/alenDavid/notify-cli
-- slonik-interceptor-json-rows: https://github.com/alendavid/slonik-interceptor-json-rows
-
 ## What do I do?
 
-- 🔭  Current Side-Project(s): [notify](https://github.com/alenDavid/notify-cli)
+- 🔭  Current Side-Project(s): ChallengeWare.
 - 🌱  I’m currently reading books about Software Architecture and Machine Learning.
 - 👯  I’m looking to collaborate on Open Source projects!
 - 💬  Ask me about anything! I'll love to help you!
