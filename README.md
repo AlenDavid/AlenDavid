@@ -2,7 +2,7 @@
 
 ## Biography
 
-Name's Alen, David Alen. I'm a Senior Software Enginner, 26 years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
+Name's Alen, David Alen. I'm a Senior Software Enginner, 27 years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
 
 As a Senior Software Engineer, I collaborate with my team to build fast, reliable and secure software. My career started back in 2018, and since then, I've been using Golang, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
 
@@ -18,8 +18,8 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
 ## What do I do?
 
-- 🔭  Current Side-Project(s): ChallengeWare.
-- 🌱  I’m currently reading books about Software Architecture and Machine Learning.
+- 🔭  Current Side-Project(s): None.
+- 🌱  I’m currently reading books about Software Architecture.
 - 👯  I’m looking to collaborate on Open Source projects!
 - 💬  Ask me about anything! I'll love to help you!
 - 📫  How to reach me: twitter.com/davidalen_
@@ -27,11 +27,4 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 - ⚡  Fun fact: I'm the best chess player between my friends!
 - 🧑🏻‍💻 Hire me: [LinkedIn](https://linkedin.com/in/david-alen)
 
----
-
-<div style="display: flex; align-items: center; justify-content: center;">
-
-![David Alen](https://github-readme-stats.vercel.app/api?username=alendavid&show_icons=true&theme=great-gatsby&cache_seconds=1800&include_all_commits=true&count_private=true)
-
-</div>
 
