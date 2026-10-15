@@ -2,9 +2,9 @@
 
 ## Biography
 
-Name's Alen, David Alen. I'm a Senior Software Enginner, 27 years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
+Name's Alen, David Alen. I'm a Senior Software Enginner, twenty-something years old. I'm addicted to cats and coffee. If you dare me to solve a computer problem, I'll spend all my time to find some solutions!
 
-As a Senior Software Engineer, I collaborate with my team to build fast, reliable and secure software. My career started back in 2018, and since then, I've been using Golang, JavaScript, TypeScript, React, Express, Jest and other tools to build these amazing products.
+As a ~Senior~ Staff Software Engineer, I collaborate with my team to build fast, reliable and secure software. My career started back in 2018, and since then, I've been using Golang, Python, C#, Rust, JavaScript, TypeScript, React, Vue and other tools to build these amazing products.
 
 I'm an advocate of Automated Testing, Microservices and Scrum.
 
@@ -18,7 +18,7 @@ This is my personal website, [davidalen.dev](https://www.davidalen.dev/)
 
 ## What do I do?
 
-- 🔭  Current Side-Project(s): None.
+- 🔭  Current Side-Project(s): Gradlerust. Why not?
 - 🌱  I’m currently reading books about Software Architecture.
 - 👯  I’m looking to collaborate on Open Source projects!
 - 💬  Ask me about anything! I'll love to help you!
